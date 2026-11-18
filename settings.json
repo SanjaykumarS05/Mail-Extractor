@@ -1,0 +1,14 @@
+{
+  "email": "chittetiramu@rsoft.in",
+  "senders": "rsoftindia1@gmail.com",
+  "start": "1-11-2026",
+  "end": "18-11-2026",
+  "host": "mail.rsoft.in",
+  "port": "993",
+  "folder": "INBOX",
+  "output_dir": "C:/report",
+  "direction": "from",
+  "use_ssl": true,
+  "ignore_cert": true,
+  "all_folders": true
+}
